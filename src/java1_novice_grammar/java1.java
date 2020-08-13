@@ -1,4 +1,4 @@
-package java1;
+package java1_novice_grammar;
 // 패키지 > 클래스 > 메소드(명령어), 변수
 public class java1 {
 

@@ -1,4 +1,4 @@
-package java1;
+package java1_novice_grammar;
 
 public class java6 {
 
